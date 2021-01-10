@@ -26,7 +26,7 @@
 		<b:if cond='data:blog.postImageThumbnailUrl'>
 			<link expr:href='data:blog.postImageThumbnailUrl' rel='image_src'/>
 		</b:if>
-		
+
 		<meta expr:content='data:blog.pageName' property='og:title'/>
 		<meta expr:content='data:blog.canonicalUrl' property='og:url'/>
 		<meta content='article' property='og:type'/>
@@ -72,7 +72,7 @@
 /*
 PLEASE DONT REMOVE THIS CREDIT
 -----------------------------------------------
-Original Themes Information: 
+Original Themes Information:
 Name		: Mediumish - A Medium style template by WowThemes.net
 Link		: https://www.wowthemes.net/mediumish-free-bootstrap-4-0-html-template-medium-styled/
 
@@ -109,12 +109,12 @@ min-width: 100% !important;
   <b:widget id='LinkList1' locked='false' title='Navigation' type='LinkList' version='1'>
     <b:widget-settings>
       <b:widget-setting name='sorting'>NONE</b:widget-setting>
-      <b:widget-setting name='text-1'>Post</b:widget-setting>
+      <b:widget-setting name='text-1'>Github</b:widget-setting>
       <b:widget-setting name='link-1'>/p/post.html</b:widget-setting>
       <b:widget-setting name='text-0'>Home</b:widget-setting>
       <b:widget-setting name='link-2'>https://facebook.com/sunuazizrahayu</b:widget-setting>
       <b:widget-setting name='link-0'>/</b:widget-setting>
-      <b:widget-setting name='text-2'>Author</b:widget-setting>
+      <b:widget-setting name='text-2'>About me</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>--&gt;
 
@@ -247,7 +247,7 @@ min-width: 100% !important;
 		<div class='content-wrapper'>
 			<div id='outer-wrapper'>
 
-				
+
 				<main id='main-wrapper' itemprop='mainEntity' itemscope='itemscope' itemtype='http://schema.org/Blog'>
 					<b:section class='main' id='main' showaddelement='no'>
 <b:widget id='PopularPosts1' locked='false' title='Postingan Populer' type='PopularPosts'>
@@ -824,7 +824,7 @@ min-width: 100% !important;
 											</span>
 											<span class='clock'> on <a class='updated' expr:href='data:post.url' rel='bookmark' title='permanent link'><abbr class='updated' expr:title='data:post.timestampISO8601'> <data:post.timestamp/></abbr></a></span>
 										</h3>
-										
+
 										<b:if cond='data:blog.pageType == &quot;item&quot;'>
 											<data:post.body/>
 										</b:if>
