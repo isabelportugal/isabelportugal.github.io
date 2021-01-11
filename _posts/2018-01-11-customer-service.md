@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Inception Movie"
-author: john
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
@@ -21,7 +20,6 @@ It's actually really simple! Add the rating in your YAML front matter. It also s
 ---
 layout: post
 title:  "Inception Movie"
-author: john
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
