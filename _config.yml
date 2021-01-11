@@ -16,8 +16,8 @@ authors:
   isabel:
     name: Isabel
     display_name: Isabel
-    avatar: https://media-exp1.licdn.com/dms/image/C4D03AQHQOC636bDn2Q/profile-displayphoto-shrink_200_200/0/1590134541720?e=1616025600&v=beta&t=eLk2nGHEIAOpMdwEFH7hs_XsbCjKbm51qwfy_OmOCV4
-    web: https://www.wowthemes.net
+    avatar: 'assets/images/avatar.png'
+    web: https://twitter.com/isaport
     twitter: https://twitter.com/isaport
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
