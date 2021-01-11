@@ -2,7 +2,7 @@
 layout: post
 title:  "Tree of Codes"
 author: isabel
-categories: [ Jekyll, tutorial ]
+categories: [ Analytics, Machine Learning ]
 image: assets/images/9.jpg
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "About Bundler"
 author: isabel
-categories: [ Jekyll ]
+categories: [ Analytics, Machine Learning ]
 image: assets/images/2.jpg
 rating: 3
 comments: false

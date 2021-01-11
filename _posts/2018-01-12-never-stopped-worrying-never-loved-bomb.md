@@ -2,7 +2,7 @@
 layout: post
 title:  "Never stopped worrying or loving the bomb"
 author: isabel
-categories: [ Jekyll ]
+categories: [ Machine Learning ]
 image: assets/images/14.jpg
 comments: false
 ---

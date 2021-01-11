@@ -2,7 +2,7 @@
 layout: post
 title:  "Press and education"
 author: isabel
-categories: [ Jekyll, tutorial ]
+categories: [ Machine Learning ]
 image: assets/images/7.jpg
 comments: false
 ---

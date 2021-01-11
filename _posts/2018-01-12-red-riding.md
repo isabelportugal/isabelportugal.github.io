@@ -2,7 +2,7 @@
 layout: post
 title:  "Red Riding Hood"
 author: isabel
-categories: [ Jekyll, tutorial ]
+categories: [ Analytics, Machine Learning ]
 image: assets/images/1.jpg
 comments: false
 ---

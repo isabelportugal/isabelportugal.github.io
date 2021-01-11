@@ -2,7 +2,7 @@
 layout: post
 title:  "Powerful things you can do with the Markdown editor"
 author: isabel
-categories: [ Jekyll, tutorial ]
+categories: [ Analytics, Machine Learning ]
 image: assets/images/16.jpg
 comments: false
 ---

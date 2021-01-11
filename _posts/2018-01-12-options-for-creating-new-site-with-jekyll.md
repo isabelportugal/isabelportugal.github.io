@@ -2,7 +2,7 @@
 layout: post
 title:  "Options for creating a new site with Jekyll"
 author: isabel
-categories: [ Jekyll, tutorial ]
+categories: [ Machine Learning ]
 image: assets/images/13.jpg
 comments: false
 ---

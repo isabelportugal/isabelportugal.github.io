@@ -2,7 +2,7 @@
 layout: post
 title:  "The first mass-produced book to deviate from a rectilinear format"
 author: isabel
-categories: [ Jekyll, tutorial ]
+categories: [ Analytics, Machine Learning ]
 image: assets/images/17.jpg
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "We all wait for summer"
 author: isabel
-categories: [ Jekyll, tutorial ]
+categories: [ Analytics, Machine Learning ]
 image: assets/images/5.jpg
 rating: .5
 comments: false
